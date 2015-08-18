@@ -1,0 +1,35 @@
+\begin{table*}
+\begin{tabular}{|c| c | l r |}
+\hline
+Mock Lenses & Fits & \multicolumn{2}{|c|}{dof} \\
+\hline
+
+& LOS & Doubles & -1 \\
+&$\x_s = (\I-\G)\x_1 - (\I-\beta\G)\tilde{\al}_g(\x_1)$ & Quads &7 \\
+ Background: Exact&Shear & Doubles & $-3$ \\
+$\x_s = \x_1 - \al_g(\x_1) - \al_p(\x_1-\beta\al_g(\x_1))$&$\x_s = (\I-{\tilde\G})\x_1 - \tilde{\al}_g(\x_1)$&Quads& 5\\
+&None&Doubles&$-1$\\
+&$\x_s = \x_1 - \tilde{\al}_g(\x_1)$&Quads&7\\
+\hline
+&LOS & Doubles & $-1$ \\
+&$\x_s = (\I-\G)\x_1 - \tilde{\al}_g((\I-\beta\G)\x_1)$ & Quads &7 \\
+Foreground: Exact & Shear & Doubles & $-3$ \\
+$\x_s = \x_1 - \al_p(\x_1) - \al_g(\x_1-\beta\al_p(\x_1))$&$\x_s = (\I-{\tilde\G})\x_1 - \tilde{\al}_g(\x_1)$&Quads& 5\\
+&None&Doubles&$-1$\\
+&$\x_s = \x_1 - \tilde{\al}_g(\x_1)$&Quads&7\\
+\hline
+
+&Shear & Doubles & $-3$ \\
+Background: LOS&$\x_s = (\I-{\tilde\G})\x_1 - \tilde{\al}_g(\x_1)$&Quads& 5\\
+ $\x_s = (\I-\G)\x_1 - (\I-\beta\G)\al_g(\x_1)$ &None&Doubles&$-1$\\
+&$\x_s = \x_1 - \tilde{\al}_g(\x_1)$&Quads&7\\
+\hline
+& Shear & Doubles & $-3$ \\
+Foreground: LOS&$\x_s = (\I-{\tilde\G})\x_1 - \tilde{\al}_g(\x_1)$&Quads& 5\\
+$\x_s = (\I-\G)\x_1 - \al_g((\I-\beta\G)\x_1)$&None&Doubles&$-1$\\
+&$\x_s = \x_1 - \tilde{\al}_g(\x_1)$&Quads&7\\
+\hline
+\end{tabular}
+\caption[Summary of Monte Carlo mock lenses and fitted models]{Summary of Monte Carlo mock lenses and fitted models. The first column shows the equation used to generate the mock data. The mock lenses in the first two rows with higher order terms while the mock lenses in the bottom two rows are generated with the tidal approximation. The middle column shows the fitted models. Quantities with a tilde are allowed to vary in the fits. The dof for each of the models for double and quad image configurations are given in the last column. Using the suite of simulations described here, we can disentangle the effects of higher order terms that are included in the top two rows and non-linear effects which are dominant in the bottom two rows. }
+\label{tab:models}
+\end{table*}

@@ -1,0 +1,95 @@
+\iflatexml
+\documentclass[]{mn2e}
+\fi
+\usepackage{natbib}
+\newcommand{\newblock}{}
+\usepackage{amsmath}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{bm}
+\usepackage{graphicx}
+\usepackage{hyperref}
+% \usepackage{stfloats} % Not (yet) supported by LaTeXML.
+\renewcommand\floatpagefraction{1.0}
+\renewcommand\topfraction{.99}
+\renewcommand\bottomfraction{.99}
+\renewcommand\textfraction{0.01}
+\renewcommand\dbltopfraction{0.99}
+\newcommand\fnurl[2]{%
+\href{#2}{#1}\footnote{\url{#2}}%
+}
+\newcommand\A[0]{\mathbf{A}}
+\newcommand\B[0]{\mathbf{B}}
+\newcommand\C[0]{\mathbf{C}}
+\newcommand\I[0]{\mathbf{I}}
+\newcommand\G[0]{\boldsymbol{\Gamma}}
+\newcommand\x[0]{\mathbf{x}}
+\newcommand\br[0]{\mathbf{r}}
+\newcommand\bu[0]{\mathbf{u}}
+\newcommand\al[0]{\boldsymbol{\alpha}}
+\newcommand\asinh[0]{\operatorname{asinh}}
+\newcommand\vx{\mbox{\boldmath $x$}}
+\newcommand\vy{\mbox{\boldmath $y$}}
+\newcommand\vu{\mbox{\boldmath $u$}}
+\newcommand\vv{\mbox{\boldmath $v$}}
+\newcommand\vrp{\mbox{\boldmath $r$}}
+\newcommand\va{\mbox{\boldmath $\alpha$}}
+\newcommand\Mmat{{\bf M}}
+\newcommand\Amat{{\bf A}}
+\newcommand\Bmat{{\bf B}}
+\newcommand\Cmat{{\bf C}}
+\newcommand\Gmat{{\bf \Gamma}}
+\newcommand\Ghat{{\tilde\Gmat}}
+\newcommand\Imat{{\bf I}}
+\newcommand\Rmat{{\bf R}}
+\newcommand\rhat[0]{\bm{\hat{r}}}
+\newcommand\drho{\delta\rho}
+\newcommand\mumat{{\bf \mu}}
+\newcommand\Gammamat{{\bf\Gamma}}
+\newcommand\sF{{\mathcal F}}
+\newcommand\Sigcrit{\Sigma_{{\rm cr},i}}
+\newcommand\zeromat{{\textbf{\textsf{0}}}}
+\newcommand\Transpose{{\mathrm{T}}}
+\newcommand\Dhat{{\tilde D}}
+\newcommand\Sigcri{\Sigma_{{\rm cr},i}}
+\newcommand\Rein{R_{\rm ein}}
+\newcommand\Fmat{{\textbf{\textsf{F}}}}
+\newcommand\refeq[1]{eq.~(\ref{eq:#1})}
+\newcommand\refeqp[1]{eq.~\ref{eq:#1}}
+\newcommand\refeqs[2]{eqs.~(\ref{eq:#1}) and (\ref{eq:#2})}
+\newcommand\refeqset[2]{eqs.~(\ref{eq:#1} - \ref{eq:#2})}
+\newcommand\reffig[1]{Figure~\ref{fig:#1}}
+\newcommand\reffigs[2]{Figures~\ref{fig:#1} and \ref{fig:#2}}
+\newcommand\reftab[1]{Table~\ref{tab:#1}}
+\newcommand\refsec[1]{\S \ref{S:#1}}
+\newcommand\refsecs[2]{\S\S \ref{S:#1} and \ref{S:#2}}
+\newcommand\refsubsecs[2]{\S\S \ref{subsec:#1} and \ref{subsec:#2}}
+\newcommand\refapp[1]{Appendix~\ref{app:#1}}
+\usepackage{color}
+\newcommand{\kibitz}[2]{\ifnum\Comments=1\textcolor{#1}{#2}\fi}
+\newcommand{\crk}[1]{\kibitz{darkblue}{[CRK: #1]}}
+\newcommand{\cvm}[1]{\kibitz{darkgreen}{[CVM: #1]}}
+\newcommand\araa{ARA\&A}
+\newcommand\apj{ApJ}
+\newcommand\apjl{ApJL}
+\newcommand\apjs{ApJS}
+\newcommand\aj{AJ}
+\newcommand\mnras{MNRAS}
+\newcommand\aap{A\&A}
+\newcommand\physrep{Phys.~Rep.}
+\newcommand\prd{Phys.~Rev.~D}
+
+\DeclareGraphicsExtensions{.pdf,.jpg}
+\pdfminorversion=5
+\setcounter{totalnumber}{50}
+\setcounter{topnumber}{50}
+\setcounter{bottomnumber}{50}
+\setcounter{dbltopnumber}{50}
+\definecolor{darkgreen}{rgb}{0,0.5,0}
+\definecolor{purple}{rgb}{0.8,0,0.8}
+\definecolor{darkblue}{rgb}{0,0,0.6}
+\definecolor{darkred}{rgb}{0.6,0,0}
+\definecolor{orange}{rgb}{1.0,0.5,0}
+\newcount\Comments% First macro on next line not (yet) supported by LaTeXML: 
+% \Comments=1   % TODO: set to 0 for final version
+\setlength{\paperheight}{11.69in}

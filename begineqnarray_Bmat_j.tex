@@ -1,0 +1,10 @@
+\begin{eqnarray}
+\Bmat_j &=& \Imat - \sum\limits_{i=1,i\not \in \{\ell_\mu\}}^{j-1}\beta_{ij}\Gmat_i \Bmat_i, \\
+\Cmat_{\ell j} &=& \beta_{\ell j} \Imat - \sum\limits_{i=\ell+1, i\not\in\{\ell_\mu\}}^{j-1} \beta_{\ell i}\Gmat_i\Cmat_{\ell i}, \\
+\mathbf{F}_j &\equiv& \tau_{j-1} \mathbf{B}_{j}-\tau_{j-1} \mathbf{B}_{j-1}
+  \ =\ - \sum\limits_{i=1,i\not \in \{\ell_\mu\}}^{j-1} \tau_{is}\mathbf{\Gamma}_i\mathbf{B}_i, \\
+\mathbf{G}_{\ell j}&\equiv& \tau_{j-1} \mathbf{C}_{\ell j}-\tau_{j-1} \mathbf{C}_{\ell \,j-1}
+  \nonumber \\
+   &=&\ \tau_{\ell s}\Imat- \sum\limits_{i=\ell+1,i \not \in \{\ell_\mu\}}^{j-1} \tau_{is}\mathbf{\Gamma}_i\mathbf{C}_{\ell i}.
+\end{eqnarray}
+These matrices can be computed once at the start of any lens modeling analysis and stored for repeated use.
