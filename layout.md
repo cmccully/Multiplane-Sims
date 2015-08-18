@@ -1,5 +1,4 @@
 abstract.tex
-Environmental_and_LO.tex
 McCully_et_al.tex
 sectionIntroduction_.tex
 In_recent_years_both.tex
