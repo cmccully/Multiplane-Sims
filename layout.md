@@ -39,7 +39,7 @@ We_now_turn_our.tex
 begin_equation_al_g_R_E_rhat__.tex
 From_above_for_the.tex
 begin_eqnarray_x_s_x_1_al_1__.tex
-beginequation_vx_s__.tex
+begin_equation_x_s_x__1__.tex
 beginequation_vx_s_v.tex
 Subtracting_refeqsba.tex
 beginequation_Delta_.tex
