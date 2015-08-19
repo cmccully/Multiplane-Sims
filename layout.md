@@ -56,7 +56,7 @@ beginequation_Delta_2.tex
 beginequation_Delta_3.tex
 As_stated_above_we.tex
 subsectionGeneral_LO.tex
-begineqnarray_vx_i__.tex
+begin_eqnarray_x__i_B_i__.tex
 beginequation_tau_ij.tex
 begineqnarray_Bmat_j.tex
 We_note_that_if.tex
