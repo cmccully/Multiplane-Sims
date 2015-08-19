@@ -4,6 +4,16 @@
 \renewcommand\bottomfraction{.99}
 \renewcommand\textfraction{0.01}
 \renewcommand\dbltopfraction{0.99}
+
+\DeclareGraphicsExtensions{.pdf,.png}
+\pdfminorversion=5
+\setcounter{totalnumber}{50}
+\setcounter{topnumber}{50}
+\setcounter{bottomnumber}{50}
+\setcounter{dbltopnumber}{50}
+
+\setlength{\paperheight}{11.69in}
+
 \newcommand\fnurl[2]{%
 \href{#2}{#1}\footnote{\url{#2}}%
 }
@@ -33,10 +43,10 @@
 
 \newcommand\Rein{R_{\rm ein}}
 
-\newcommand\refeq[1]{eq.~(\ref{eq:#1})}
-\newcommand\refeqp[1]{eq.~\ref{eq:#1}}
-\newcommand\refeqs[2]{eqs.~(\ref{eq:#1}) and (\ref{eq:#2})}
-\newcommand\refeqset[2]{eqs.~(\ref{eq:#1} - \ref{eq:#2})}
+\newcommand\refeq[1]{eq.~(\ref{eqn:#1})}
+\newcommand\refeqp[1]{eq.~\ref{eqn:#1}}
+\newcommand\refeqs[2]{eqs.~(\ref{eqn:#1}) and (\ref{eqn:#2})}
+\newcommand\refeqset[2]{eqs.~(\ref{eqn:#1} - \ref{eqn:#2})}
 \newcommand\reffig[1]{Figure~\ref{fig:#1}}
 \newcommand\reffigs[2]{Figures~\ref{fig:#1} and \ref{fig:#2}}
 \newcommand\reftab[1]{Table~\ref{tab:#1}}
@@ -55,15 +65,9 @@
 \newcommand\physrep{Phys.~Rep.}
 \newcommand\prd{Phys.~Rev.~D}
 
-\DeclareGraphicsExtensions{.pdf,.jpg}
-\pdfminorversion=5
-\setcounter{totalnumber}{50}
-\setcounter{topnumber}{50}
-\setcounter{bottomnumber}{50}
-\setcounter{dbltopnumber}{50}
 
-\setlength{\paperheight}{11.69in}
 
+  
   
   
   
