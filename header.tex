@@ -11,33 +11,28 @@
 \newcommand\B[0]{\mathbf{B}}
 \newcommand\C[0]{\mathbf{C}}
 \newcommand\I[0]{\mathbf{I}}
-\newcommand\G[0]{\boldsymbol{\Gamma}}
+\newcommand\F[0]{mathbf{G}}
+\newcommand\G[0]{mathbf{G}}
+\newcommand\GammaMat[0]{\boldsymbol{\Gamma}
 \newcommand\x[0]{\mathbf{x}}
-\newcommand\br[0]{\mathbf{r}}
-\newcommand\bu[0]{\mathbf{u}}
+
+\newcommand\v[1]{\mathbf{#1}}
 \newcommand\al[0]{\boldsymbol{\alpha}}
 \newcommand\asinh[0]{\operatorname{asinh}}
 
-\newcommand\Mmat{{\bf M}}
-\newcommand\Amat{{\bf A}}
-\newcommand\Bmat{{\bf B}}
-\newcommand\Cmat{{\bf C}}
-\newcommand\Gmat{{\bf \Gamma}}
-\newcommand\Ghat{{\tilde\Gmat}}
-\newcommand\Imat{{\bf I}}
-\newcommand\Rmat{{\bf R}}
-\newcommand\rhat[0]{\bm{\hat{r}}}
+\newcommand\Ghat{{\tilde\GammaMat}}
+
+\newcommand\rhat[0]{\v{\hat{r}}}
 \newcommand\drho{\delta\rho}
-\newcommand\mumat{{\bf \mu}}
-\newcommand\Gammamat{{\bf\Gamma}}
+\newcommand\mumat{{\boldsymbol{\mu}}}
 \newcommand\sF{{\mathcal F}}
 \newcommand\Sigcrit{\Sigma_{{\rm cr},i}}
-\newcommand\zeromat{{\textbf{\textsf{0}}}}
+\newcommand\zeromat{\mathbf{0}}
 \newcommand\Transpose{{\mathrm{T}}}
 \newcommand\Dhat{{\tilde D}}
-\newcommand\Sigcri{\Sigma_{{\rm cr},i}}
+
 \newcommand\Rein{R_{\rm ein}}
-\newcommand\Fmat{{\textbf{\textsf{F}}}}
+
 \newcommand\refeq[1]{eq.~(\ref{eq:#1})}
 \newcommand\refeqp[1]{eq.~\ref{eq:#1}}
 \newcommand\refeqs[2]{eqs.~(\ref{eq:#1}) and (\ref{eq:#2})}
@@ -77,9 +72,3 @@
 \newcount\Comments% First macro on next line not (yet) supported by LaTeXML: 
 % \Comments=1   % TODO: set to 0 for final version
 \setlength{\paperheight}{11.69in}
-
-  
-  
-  
-  
-  
