@@ -32,7 +32,7 @@ beginequation_x_s__x1.tex
 We_now_need_to.tex
 subsectionBackground.tex
 beginequation_x_s__x2.tex
-begineqnarray_xi_s__.tex
+begin_eqnarray_x_i_s_x__.tex
 beginequation_x_s__I.tex
 beginequation_bu_rm_.tex
 We_now_turn_our.tex
