@@ -51,7 +51,7 @@ begineqnarray_xi_s__1.tex
 beginequation_x_s__I1.tex
 We_now_consider_a.tex
 begin_equation_x_s_x_1_R_E__.tex
-beginequation_vx_s__2.tex
+begin_equation_x_s_vx__1__.tex
 beginequation_Delta_2.tex
 beginequation_Delta_3.tex
 As_stated_above_we.tex
