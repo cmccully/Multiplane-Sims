@@ -74,7 +74,6 @@ beginequation___dalp.tex
 beginequation_labele.tex
 We_now_turn_to.tex
 beginequation_labele1.tex
-Examining_various_ca.tex
 beginequation___beta.tex
 begineqnarray___beta.tex
 Now_we_need_to.tex
