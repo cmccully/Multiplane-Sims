@@ -77,7 +77,6 @@ beginequation_labele1.tex
 Now_we_need_to.tex
 beginequation___Bmat1.tex
 beginequation___Cmat1.tex
-The_Fmat_and_Gmat.tex
 beginequation___Fmat.tex
 beginequation___Fmat1.tex
 beginequation___tau_.tex
