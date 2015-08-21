@@ -74,7 +74,6 @@ beginequation___dalp.tex
 beginequation_labele.tex
 We_now_turn_to.tex
 beginequation_labele1.tex
-beginmultline___Bmat.tex
 beginequation___Bmat.tex
 Next_consider_a_case.tex
 begineqnarray_Bmat_1.tex
