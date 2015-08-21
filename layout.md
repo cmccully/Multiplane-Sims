@@ -123,7 +123,6 @@ beginequation_fracta.tex
 ALternatively_we_can.tex
 As_Chuck_showed_to.tex
 beginequation_Bmat_j1.tex
-beginequation_beta_i1.tex
 beginequation_Cmat_i.tex
 beginequation_Bmat_j2.tex
 beginequation_Cmat__.tex
