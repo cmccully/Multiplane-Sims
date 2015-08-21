@@ -76,7 +76,6 @@ We_now_turn_to.tex
 beginequation_labele1.tex
 Next_consider_a_case.tex
 beginequation_Bmat_e.tex
-begineqnarray___Bmat.tex
 Examining_various_ca.tex
 beginequation_labele2.tex
 beginequation___beta.tex
