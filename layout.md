@@ -76,7 +76,6 @@ We_now_turn_to.tex
 beginequation_labele1.tex
 Now_we_need_to.tex
 begineqnarray___tau_.tex
-beginequation___frac.tex
 Now_let_Dhat_be.tex
 We_can_consider_void.tex
 beginequation_nabla2.tex
