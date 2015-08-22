@@ -89,7 +89,6 @@ We_next_derive_kappa.tex
 beginequation___dV_p1.tex
 Now_consider_a_small.tex
 beginequation___M.tex
-beginequation___alph.tex
 beginequation___alph1.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
