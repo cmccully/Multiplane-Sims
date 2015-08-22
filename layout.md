@@ -74,7 +74,6 @@ beginequation___dalp.tex
 beginequation_labele.tex
 We_now_turn_to.tex
 beginequation_labele1.tex
-Now_we_need_to.tex
 Now_let_Dhat_be.tex
 We_can_consider_void.tex
 beginequation_nabla2.tex
