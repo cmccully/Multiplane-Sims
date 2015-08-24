@@ -89,6 +89,7 @@ Now_if_plane_j_is__.tex
 Next_we_consider_j_1__.tex
 This_generalizes_to_begin_equation__.tex
 Now_that_the_discrete_sum__.tex
+This_form_of_the_integral__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
