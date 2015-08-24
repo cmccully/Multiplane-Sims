@@ -99,7 +99,6 @@ The_Fmat_and_Gmat1.tex
 beginequation_Fmat_j.tex
 Including_void_plane.tex
 beginequation_Fmat_j1.tex
-beginequation_tau_i_.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
