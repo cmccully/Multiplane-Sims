@@ -86,7 +86,6 @@ beginequation_rho_rm.tex
 We_begin_with_consid.tex
 In_the_limit_that.tex
 The_case_with_both.tex
-beginequation_Bmat_e1.tex
 We_begin_by_defining.tex
 beginequation_D_z_eq.tex
 beginequation_D_z_1z.tex
