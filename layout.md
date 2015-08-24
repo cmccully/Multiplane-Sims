@@ -83,7 +83,6 @@ beginequation_Ez2__O.tex
 beginequation_rho_p_.tex
 beginequation_barrho.tex
 beginequation_rho_rm.tex
-We_begin_with_consid.tex
 In_the_limit_that.tex
 The_case_with_both.tex
 We_begin_by_defining.tex
