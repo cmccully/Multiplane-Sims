@@ -93,7 +93,6 @@ beginequation_fracta.tex
 ALternatively_we_can.tex
 beginequation_Cmat_i.tex
 beginequation_Bmat_j2.tex
-beginequation_Cmat__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
