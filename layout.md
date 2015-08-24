@@ -85,7 +85,6 @@ beginequation_barrho.tex
 beginequation_rho_rm.tex
 We_begin_by_defining.tex
 beginequation_D_z_eq.tex
-beginequation_D_z_1z.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
