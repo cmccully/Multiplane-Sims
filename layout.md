@@ -74,7 +74,6 @@ begin_equation_Sigcrit_z_i_z_s__.tex
 begin_equation_GammaMat_i_frac_partial__.tex
 We_can_consider_empty_space__.tex
 beginequation___dalp.tex
-beginequation_labele.tex
 We_now_turn_to.tex
 Now_let_Dhat_be.tex
 We_next_derive_kappa.tex
