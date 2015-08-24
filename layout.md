@@ -97,7 +97,6 @@ beginequation_beta_z.tex
 beginequation_tau_z_.tex
 We_can_then_redefine.tex
 beginequation_Bmatz_.tex
-The_Cmat_Fmat_and.tex
 beginequation_Fmatz_.tex
 beginmultline_Gmatz_.tex
 beginequation_fracbe.tex
