@@ -89,7 +89,6 @@ beginequation_D_z_1z.tex
 beginequation_beta_z.tex
 beginequation_tau_z_.tex
 beginequation_fracbe.tex
-beginequation_fracta.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
