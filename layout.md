@@ -84,7 +84,6 @@ beginequation_rho_p_.tex
 beginequation_barrho.tex
 beginequation_rho_rm.tex
 We_begin_with_consid.tex
-beginmultline_Bmat_s.tex
 In_the_limit_that.tex
 beginequation_Bmat_s.tex
 The_case_with_both.tex
