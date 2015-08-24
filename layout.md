@@ -96,7 +96,6 @@ beginequation_Bmat_j2.tex
 beginequation_Cmat__.tex
 beginequation_beta_i2.tex
 The_Fmat_and_Gmat1.tex
-beginequation_Fmat_j.tex
 Including_void_plane.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
