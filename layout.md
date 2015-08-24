@@ -70,6 +70,7 @@ There_are_a_variety_of__.tex
 We_begin_by_writing_down__.tex
 begin_equation_kappa_i_frac_Sigma__.tex
 begin_equation_Sigma_r_p_int__.tex
+begin_equation_Sigcrit_z_i_z_s__.tex
 We_consider_empty_space_voids__.tex
 beginequation___dalp.tex
 beginequation_labele.tex
