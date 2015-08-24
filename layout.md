@@ -85,6 +85,7 @@ beginequation_barrho.tex
 beginequation_rho_rm.tex
 Now_we_turn_to_our__.tex
 If_there_is_only_mean__.tex
+Now_if_plane_j_is__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
