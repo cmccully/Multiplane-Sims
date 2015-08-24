@@ -73,7 +73,6 @@ begin_equation_Sigma_r_p_int__.tex
 begin_equation_Sigcrit_z_i_z_s__.tex
 begin_equation_GammaMat_i_frac_partial__.tex
 We_can_consider_empty_space__.tex
-Now_let_Dhat_be.tex
 We_next_derive_kappa.tex
 beginequation___dV_p1.tex
 Now_consider_a_small.tex
