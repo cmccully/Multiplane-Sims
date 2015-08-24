@@ -88,7 +88,6 @@ beginmultline_Bmat_s.tex
 In_the_limit_that.tex
 beginequation_Bmat_s.tex
 The_case_with_both.tex
-begineqnarray_Bmat_11.tex
 beginequation_Bmat_e1.tex
 We_begin_by_defining.tex
 beginequation_D_z_eq.tex
