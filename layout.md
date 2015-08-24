@@ -104,7 +104,6 @@ beginequation_Fmat_j1.tex
 beginequation_tau_i_.tex
 beginequation_Gmat_i.tex
 beginequation_Fmat_j2.tex
-beginequation_Gmat__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
