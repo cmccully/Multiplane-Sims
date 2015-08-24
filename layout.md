@@ -85,7 +85,6 @@ beginequation_barrho.tex
 beginequation_rho_rm.tex
 We_begin_with_consid.tex
 In_the_limit_that.tex
-beginequation_Bmat_s.tex
 The_case_with_both.tex
 beginequation_Bmat_e1.tex
 We_begin_by_defining.tex
