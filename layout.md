@@ -79,7 +79,6 @@ Now_let_Dhat_be.tex
 beginequation_nabla2.tex
 beginequation_kappa_.tex
 beginequation_Sigmar.tex
-beginequation_Sigcri.tex
 beginequation___Gamm.tex
 beginequation__Gamma.tex
 We_next_derive_kappa.tex
