@@ -75,7 +75,6 @@ beginequation_labele.tex
 We_now_turn_to.tex
 beginequation_labele1.tex
 Now_let_Dhat_be.tex
-We_can_consider_void.tex
 beginequation_nabla2.tex
 beginequation_kappa_.tex
 beginequation_Sigmar.tex
