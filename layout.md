@@ -91,7 +91,6 @@ beginequation_tau_z_.tex
 beginequation_fracbe.tex
 beginequation_fracta.tex
 ALternatively_we_can.tex
-As_Chuck_showed_to.tex
 beginequation_Cmat_i.tex
 beginequation_Bmat_j2.tex
 beginequation_Cmat__.tex
