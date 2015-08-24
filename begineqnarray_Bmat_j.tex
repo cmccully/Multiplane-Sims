@@ -1,12 +1,13 @@
 \begin{eqnarray}
-\B_j &=& \I - \sum\limits_{i=1,i\not \in \{\ell_\mu\}}^{j-1}\beta_{ij}\G_i \B_i, \\
-\label{eqn:cmatdef}\C_{\ell j} &=& \beta_{\ell j} \I - \sum\limits_{i=\ell+1, i\not\in\{\ell_\mu\}}^{j-1} \beta_{\ell i}\G_i\_{\ell i}, \\
+\B_j &=& \I - \sum\limits_{i=1,i\not \in \{\ell_\mu\}}^{j-1}\beta_{ij}\GammaMat_i \B_i, \\
+\label{eqn:cmatdef}\C_{\ell j} &=& \beta_{\ell j} \I - \sum\limits_{i=\ell+1, i\not\in\{\ell_\mu\}}^{j-1} \beta_{\ell i}\GammaMat_i\_{\ell i}, \\
 \F_j &\equiv& \tau_{j-1} \B_{j}-\tau_{j-1} \B_{j-1}
   \ =\ - \sum\limits_{i=1,i\not \in \{\ell_\mu\}}^{j-1} \tau_{is}\GammaMat_i\B_i, \\
-\G_{\ell j}&\equiv& \tau_{j-1} \C_{\ell j}-\tau_{j-1} \C_{\ell \,j-1}
+\GammaMat_{\ell j}&\equiv& \tau_{j-1} \C_{\ell j}-\tau_{j-1} \C_{\ell \,j-1}
   \nonumber \\
    &=&\ \tau_{\ell s}\I- \sum\limits_{i=\ell+1,i \not \in \{\ell_\mu\}}^{j-1} \tau_{is}\GammaMat_i\C_{\ell i}.
 \end{eqnarray}
 These matrices can be computed once at the start of any lens modeling analysis and stored for repeated use.
+  
   
   
