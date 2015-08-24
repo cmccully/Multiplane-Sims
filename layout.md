@@ -88,7 +88,6 @@ beginequation_D_z_eq.tex
 beginequation_D_z_1z.tex
 beginequation_beta_z.tex
 beginequation_tau_z_.tex
-beginmultline_Gmatz_.tex
 beginequation_fracbe.tex
 beginequation_fracta.tex
 ALternatively_we_can.tex
