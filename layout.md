@@ -77,7 +77,6 @@ beginequation___dalp.tex
 beginequation_labele.tex
 We_now_turn_to.tex
 Now_let_Dhat_be.tex
-beginequation_nabla2.tex
 beginequation_Sigmar.tex
 beginequation___Gamm.tex
 We_next_derive_kappa.tex
