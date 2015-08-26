@@ -95,6 +95,7 @@ Next_we_take_another_derivative__.tex
 Now_we_combine_equations_ref__.tex
 The_terms_in_the_square__.tex
 We_can_follow_a_similar__.tex
+The_continuous_limit_is_then__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
