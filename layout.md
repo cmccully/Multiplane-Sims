@@ -92,6 +92,7 @@ Now_that_the_discrete_sum__.tex
 This_form_of_the_integral__.tex
 Now_we_take_a_derivative__.tex
 Next_we_take_another_derivative__.tex
+Now_we_combine_equations_ref__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
