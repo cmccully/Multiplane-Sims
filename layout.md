@@ -68,7 +68,6 @@ In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 There_are_a_variety_of__.tex
 begin_equation_Sigma_r_p_int__.tex
-begin_equation_Sigcrit_z_i_z_s__.tex
 begin_equation_GammaMat_i_frac_partial__.tex
 We_can_consider_empty_space__.tex
 beginequation___dV_p1.tex
