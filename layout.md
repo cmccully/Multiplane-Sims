@@ -89,6 +89,7 @@ This_is_a_second_order__.tex
 We_can_follow_a_similar__.tex
 The_continuous_limit_is_then__.tex
 We_now_take_a_derivative__.tex
+This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
