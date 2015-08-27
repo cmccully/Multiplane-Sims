@@ -67,7 +67,6 @@ beginequation_x_s__B.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 There_are_a_variety_of__.tex
-begin_equation_Sigma_r_p_int__.tex
 We_can_consider_empty_space__.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
