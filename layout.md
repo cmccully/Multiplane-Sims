@@ -74,7 +74,6 @@ begin_equation_GammaMat_i_frac_partial__.tex
 We_can_consider_empty_space__.tex
 beginequation___dV_p1.tex
 Now_consider_a_small.tex
-beginequation___M.tex
 beginequation___alph1.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
