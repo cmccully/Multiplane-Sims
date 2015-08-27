@@ -69,7 +69,6 @@ subsectionVoids_We_c.tex
 There_are_a_variety_of__.tex
 begin_equation_Sigma_r_p_int__.tex
 We_can_consider_empty_space__.tex
-Now_consider_a_small.tex
 beginequation___alph1.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
