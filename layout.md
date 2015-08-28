@@ -130,7 +130,7 @@ subsectionFiducial_R.tex
 We_take_the_latter.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
-figures/B0712_fieldrz/B0712_fieldrz.png
+figures/B0712_fieldrz/RXJ1131_fieldrz.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/B0712.png
