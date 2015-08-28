@@ -131,6 +131,7 @@ We_take_the_latter.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
+figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
