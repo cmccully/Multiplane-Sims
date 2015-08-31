@@ -158,6 +158,7 @@ A_second_key_paramet.tex
 figures/recompare/recompare.png
 LSST_will_find_an.tex
 subsection_External_Convergence_label_sec__.tex
+figures/suyu_kappa/suyu_kappa.png
 sectionConclusions_A.tex
 We_have_defined_the.tex
 Using_simulations_of.tex
