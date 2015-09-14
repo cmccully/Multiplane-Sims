@@ -145,6 +145,7 @@ The_total_mass_of.tex
 Once_we_include_a_large__.tex
 figures/all_los_1e-2/all_los_1e-2.png
 figures/all_shear_1e-2/all_shear_1e-2.png
+figures/los_scaled_h/los_scaled_h.png
 subsectionDifferent_.tex
 One_of_the_simplest.tex
 figures/B1422/B0712.png
