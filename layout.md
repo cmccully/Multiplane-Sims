@@ -167,6 +167,7 @@ figures/recompare/recompare.png
 LSST_will_find_an.tex
 subsection_Comparing_to_Observations_label__.tex
 In_figure_ref_fig_srcpos__.tex
+We_use_equation_13_in__.tex
 figures/suyu_kappa/suyu_kappa.png
 sectionConclusions_A.tex
 We_have_defined_the.tex
