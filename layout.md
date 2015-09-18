@@ -139,7 +139,6 @@ We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
 The_models_that_account_for__.tex
 figures/all_shear_1e-3/all_shear_1e-3.png
-figures/all_shear_1e-1/all_shear_1e-1.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
