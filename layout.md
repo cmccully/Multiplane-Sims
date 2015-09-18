@@ -141,7 +141,6 @@ The_models_that_account_for__.tex
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
-For_all_of_the.tex
 The_Shear_models_per.tex
 The_orientation_of_t.tex
 One_key_point_is.tex
