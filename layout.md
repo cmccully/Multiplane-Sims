@@ -137,6 +137,7 @@ The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
+The_models_that_account_for__.tex
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
