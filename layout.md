@@ -140,6 +140,7 @@ figures/all_los_1e-1/all_los_1e-1.png
 The_models_that_account_for__.tex
 figures/all_shear_1e-3/all_shear_1e-2.png
 The_correlation_between_the_power__.tex
+The_angular_part_of_equation__.tex
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
