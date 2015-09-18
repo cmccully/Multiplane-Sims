@@ -153,7 +153,7 @@ The_total_mass_of.tex
 Once_we_include_a_large__.tex
 subsectionDifferent_.tex
 One_of_the_simplest.tex
-figures/B1422/B0712.png
+figures/B1422/B0712_re1.5e03.png
 Figure_refallfields_.tex
 figures/allfields/allfields.png
 subsectionVarying_th.tex
