@@ -142,6 +142,7 @@ figures/all_shear_1e-3/all_shear_1e-2.png
 The_correlation_between_the_power__.tex
 The_angular_part_of_equation__.tex
 Thus_we_can_approximate_the__.tex
+figures/los_scaled_h1/los_scaled_h1.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
