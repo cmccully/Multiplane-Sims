@@ -2,6 +2,7 @@ abstract.tex
 sectionIntroduction_.tex
 In_recent_years_both.tex
 External_convergence.tex
+External_convergence_and_shear_arise__.tex
 Mass_that_is_not.tex
 Our_goal_for_this.tex
 This_widelyused_appr.tex
