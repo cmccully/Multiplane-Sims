@@ -76,7 +76,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
-There_are_a_variety_of__.tex
 We_can_consider_empty_space__.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
