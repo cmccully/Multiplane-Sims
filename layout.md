@@ -77,7 +77,6 @@ As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 We_can_consider_empty_space__.tex
-beginequation_dkappa.tex
 beginequation_rho_p_.tex
 beginequation_barrho.tex
 beginequation_rho_rm.tex
