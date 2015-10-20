@@ -23,6 +23,7 @@ We_can_consider_empty_space__1.tex
 where_the_critical_surface_density__.tex
 Converting_to_comoving_distances_X__.tex
 In_our_models_we_can__.tex
+begin_equation_rho_p_f_z__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
 External_convergence_and_shear_arise__1.tex
