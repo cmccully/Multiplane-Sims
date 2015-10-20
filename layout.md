@@ -13,6 +13,7 @@ begin_eqnarray_x__i_B_i__1.tex
 begin_equation_tau__i_j__.tex
 begin_eqnarray_B_j_I_sum__.tex
 We_note_that_if_we__.tex
+begin_equation_B_j_C__0__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
 External_convergence_and_shear_arise__1.tex
