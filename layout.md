@@ -66,7 +66,6 @@ beginequation_Delta_2.tex
 beginequation_Delta_3.tex
 As_stated_above_we.tex
 begineqnarray_Bmat_j.tex
-We_note_that_if.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 There_are_a_variety_of__.tex
