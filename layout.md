@@ -77,7 +77,6 @@ As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 We_can_consider_empty_space__.tex
-beginequation_rho_rm.tex
 Now_we_turn_to_our__.tex
 If_there_is_only_mean__.tex
 Now_if_plane_j_is__.tex
