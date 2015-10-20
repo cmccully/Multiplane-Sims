@@ -79,7 +79,6 @@ subsectionVoids_We_c.tex
 We_can_consider_empty_space__.tex
 beginequation___kapp.tex
 beginequation_dkappa.tex
-beginequation_Ez2__O.tex
 beginequation_rho_p_.tex
 beginequation_barrho.tex
 beginequation_rho_rm.tex
