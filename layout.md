@@ -9,6 +9,7 @@ Throughout_this_paper_we_assume__.tex
 section_Gravitational_Lensing_Using_3__.tex
 In_practice_there_ca.tex
 In_M14_we_presented_a__.tex
+begin_eqnarray_x__i_B_i__1.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
 External_convergence_and_shear_arise__1.tex
