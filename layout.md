@@ -70,7 +70,6 @@ We_note_that_if.tex
 beginequation_Bmat_j.tex
 beginequation_mathbf.tex
 For_a_single_main.tex
-beginequation_x_s__B.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 There_are_a_variety_of__.tex
