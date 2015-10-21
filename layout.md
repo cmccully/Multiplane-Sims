@@ -29,6 +29,7 @@ begin_equation_rho__rm_c__.tex
 Now_we_turn_to_our__1.tex
 If_there_is_only_mean__.tex
 Now_if_plane_j_is__.tex
+Next_we_consider_j_1__.tex
 subsection_Misc__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
@@ -80,7 +81,6 @@ As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
 Now_we_turn_to_our__.tex
-Next_we_consider_j_1__.tex
 This_generalizes_to_begin_equation__.tex
 Now_that_the_discrete_sum__.tex
 This_form_of_the_integral__.tex
