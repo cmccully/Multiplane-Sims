@@ -84,7 +84,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
-Now_we_turn_to_our__.tex
 Next_we_take_another_derivative__.tex
 Now_we_combine_equations_ref__.tex
 The_terms_in_the_square__.tex
