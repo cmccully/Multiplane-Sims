@@ -45,7 +45,6 @@ We_now_take_a_derivative__.tex
 This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 subsection_Misc__.tex
-To_this_end_we_aim__.tex
 External_convergence_and_shear_arise__1.tex
 sectionAnalytic_Back.tex
 We_begin_by_deriving.tex
