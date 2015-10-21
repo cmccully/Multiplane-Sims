@@ -35,6 +35,7 @@ Now_that_the_discrete_sum__.tex
 This_form_of_the_integral__.tex
 Now_we_take_a_derivative__.tex
 Next_we_take_another_derivative__.tex
+Now_we_combine_equations_ref__.tex
 subsection_Misc__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
@@ -85,7 +86,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
-Now_we_combine_equations_ref__.tex
 The_terms_in_the_square__.tex
 This_is_a_second_order__.tex
 We_can_follow_a_similar__.tex
