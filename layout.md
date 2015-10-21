@@ -51,6 +51,7 @@ Following_a_similar_argument_to__.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
+figures/toymass_compare/toymass_compare.png
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
 We_first_illustrate_.tex
@@ -82,7 +83,6 @@ begin_eqnarray_label_eqn_backgroundorder2__.tex
 begin_equation_x_s_x__1__.tex
 beginequation_vx_s_v.tex
 Subtracting_refeqsba.tex
-figures/toymass_compare/toymass_compare.png
 beginequation_Delta_.tex
 beginequation_Delta_1.tex
 Delta_3_x_has_the.tex
