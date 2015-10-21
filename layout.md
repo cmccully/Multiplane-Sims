@@ -67,7 +67,6 @@ In_the_previous_sect.tex
 We_use_Lensmodel_citep_Keeton01__.tex
 To_test_our_new.tex
 We_choose_source_pos.tex
-In_our_Monte_Carlo.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
