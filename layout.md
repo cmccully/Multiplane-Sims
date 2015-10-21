@@ -78,6 +78,7 @@ We_assume_a_Gaussian.tex
 For_the_recovered_le.tex
 begintable_begintabu.tex
 figures/toymass_compare/toymass_compare.png
+subsection_Foreground_vs_Background_Galaxies__.tex
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
