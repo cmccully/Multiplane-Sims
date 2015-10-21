@@ -70,6 +70,7 @@ We_choose_source_pos.tex
 Throughout_this_anal.tex
 It_is_important_to.tex
 beginitemize_item_2t.tex
+beginitemize_item_4t.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
@@ -106,7 +107,6 @@ As_stated_above_we.tex
 In_Section_refsecrea.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
-beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
 Double_image_configu.tex
