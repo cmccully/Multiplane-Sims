@@ -93,7 +93,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
-We_now_turn_our_attention__.tex
 sectionSimulations_S.tex
 begintable_begintabu.tex
 In_the_previous_sect.tex
