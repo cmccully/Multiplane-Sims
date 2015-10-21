@@ -27,6 +27,7 @@ begin_equation_rho_p_f_z__.tex
 begin_equation_bar_rho_z__.tex
 begin_equation_rho__rm_c__.tex
 Now_we_turn_to_our__1.tex
+subsection_Misc__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
 External_convergence_and_shear_arise__1.tex
