@@ -67,7 +67,6 @@ beginequation_Delta_1.tex
 Delta_3_x_has_the.tex
 subsectionForeground.tex
 beginequation_x_s_x_.tex
-begineqnarray_xi_s__1.tex
 beginequation_x_s__I1.tex
 We_now_consider_a.tex
 begin_equation_x_s_x_1_R_E__.tex
@@ -181,4 +180,4 @@ For_either_methodolo.tex
 We_show_that_the_all__.tex
 One_possible_approac.tex
 Our_main_goal_for.tex
-.tex
+begineqnarray_xi_s__1.tex
