@@ -60,11 +60,11 @@ beginequation_phi_p_2.tex
 This_expansion_of_th.tex
 beginequation_phi__p.tex
 beginequation_Gammai.tex
+beginequation_sFijk_.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
-beginequation_sFijk_.tex
 For_a_single_perturb.tex
 beginequation_x_2__x.tex
 beginequation_x_s__x.tex
