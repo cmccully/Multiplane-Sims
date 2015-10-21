@@ -53,11 +53,11 @@ sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
 We_first_illustrate_.tex
 beginequation_al_equ.tex
+If_the_perturbing_ga.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
-If_the_perturbing_ga.tex
 beginequation_phi_p_.tex
 beginequation_phi_p_1.tex
 beginequation_phi_p_2.tex
