@@ -111,7 +111,6 @@ beginequation_Delta_2.tex
 beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
-sectionSimulations_S.tex
 sectionSimulation.tex
 subsectionSingle_Per.tex
 Our_goal_here_is.tex
