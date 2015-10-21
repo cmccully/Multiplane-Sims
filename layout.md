@@ -76,6 +76,7 @@ beginitemize_item_So.tex
 Double_image_configu.tex
 We_assume_a_Gaussian.tex
 For_the_recovered_le.tex
+begintable_begintabu.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
@@ -111,7 +112,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 sectionSimulations_S.tex
-begintable_begintabu.tex
 sectionSimulation.tex
 subsectionSingle_Per.tex
 Our_goal_here_is.tex
