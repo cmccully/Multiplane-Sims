@@ -82,6 +82,7 @@ begin_eqnarray_label_eqn_backgroundorder2__.tex
 begin_equation_x_s_x__1__.tex
 beginequation_vx_s_v.tex
 Subtracting_refeqsba.tex
+figures/toymass_compare/toymass_compare.png
 beginequation_Delta_.tex
 beginequation_Delta_1.tex
 Delta_3_x_has_the.tex
@@ -112,7 +113,6 @@ We_assume_a_Gaussian.tex
 For_the_recovered_le.tex
 sectionSimulation.tex
 subsectionSingle_Per.tex
-figures/toymass_compare/toymass_compare.png
 Our_goal_here_is.tex
 Throughout_this_sect.tex
 Because_the_Shear_mo.tex
