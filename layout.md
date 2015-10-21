@@ -52,7 +52,6 @@ With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
 We_first_illustrate_.tex
-We_will_focus_on.tex
 figures/toymass_compare/toymass_compare.png
 beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
