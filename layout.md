@@ -12,6 +12,7 @@ In_M14_we_presented_a__.tex
 begin_eqnarray_x__i_B_i__1.tex
 begin_equation_tau__i_j__.tex
 begin_eqnarray_B_j_I_sum__.tex
+beginequation_beta_i.tex
 We_note_that_if_we__.tex
 begin_equation_B_j_C__0__.tex
 begin_equation_F__j_G___.tex
@@ -51,7 +52,6 @@ sectionAnalytic_Back.tex
 We_begin_by_deriving.tex
 We_first_illustrate_.tex
 beginequation_x_jx_1.tex
-beginequation_beta_i.tex
 We_will_focus_on.tex
 beginequation_al_equ.tex
 If_the_perturbing_ga.tex
