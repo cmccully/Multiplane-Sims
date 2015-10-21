@@ -50,7 +50,7 @@ This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
-External_convergence_and_shear_arise__1.tex
+There_are_broadly_two_classes__.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
 We_first_illustrate_.tex
