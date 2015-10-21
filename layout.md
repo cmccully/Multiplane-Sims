@@ -37,6 +37,7 @@ Now_we_take_a_derivative__.tex
 Next_we_take_another_derivative__.tex
 Now_we_combine_equations_ref__.tex
 The_terms_in_the_square__.tex
+This_is_a_second_order__.tex
 subsection_Misc__.tex
 In_this_work_we.tex
 To_this_end_we_aim__.tex
@@ -87,7 +88,6 @@ beginequation_Delta_3.tex
 As_stated_above_we.tex
 In_Section_refsecrea.tex
 subsectionVoids_We_c.tex
-This_is_a_second_order__.tex
 We_can_follow_a_similar__.tex
 The_continuous_limit_is_then__.tex
 We_now_take_a_derivative__.tex
