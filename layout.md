@@ -117,6 +117,7 @@ begin_equation_x_s_x_1_R_E__.tex
 begin_equation_x_s_x__1__1.tex
 beginequation_Delta_2.tex
 beginequation_Delta_3.tex
+figures/toyh/toyh.png
 In_Section_refsecrea.tex
 section_Done_through_here__.tex
 Our_goal_here_is.tex
@@ -124,7 +125,6 @@ Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_bottom_panels_of.tex
 The_last_characteris.tex
-figures/toyh/toyh.png
 While_these_single_p.tex
 subsectionFiducial_R.tex
 Real_lens_galaxies_h.tex
