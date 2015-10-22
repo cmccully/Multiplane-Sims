@@ -119,13 +119,13 @@ beginequation_Delta_2.tex
 beginequation_Delta_3.tex
 figures/toyh/toyh.png
 In_Section_refsecrea.tex
+Real_lens_galaxies_h.tex
 section_Done_through_here__.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_last_characteris.tex
 While_these_single_p.tex
 subsectionFiducial_R.tex
-Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
