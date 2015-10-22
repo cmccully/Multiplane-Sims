@@ -135,7 +135,6 @@ Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
-sectionRealistic.tex
 section_External_Shear_vs_3__.tex
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
@@ -152,6 +151,7 @@ The_Shear_models_per.tex
 The_orientation_of_t.tex
 One_key_point_is.tex
 The_total_mass_of.tex
+sectionRealistic.tex
 Once_we_include_a_large__.tex
 subsectionDifferent_.tex
 One_of_the_simplest.tex
