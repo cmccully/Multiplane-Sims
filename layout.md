@@ -55,6 +55,7 @@ To_test_our_new.tex
 We_choose_source_pos.tex
 Throughout_this_anal.tex
 It_is_important_to.tex
+beginitemize_item_2t.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
@@ -69,7 +70,6 @@ This_expansion_of_th.tex
 beginequation_phi__p.tex
 beginequation_Gammai.tex
 beginequation_sFijk_.tex
-beginitemize_item_2t.tex
 beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
