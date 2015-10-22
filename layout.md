@@ -59,10 +59,10 @@ beginitemize_item_2t.tex
 beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
-begintable_begintabu.tex
 For_the_recovered_le.tex
 Double_image_configu.tex
 We_assume_a_Gaussian.tex
+begintable_begintabu.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
