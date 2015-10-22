@@ -62,6 +62,7 @@ beginitemize_item_So.tex
 begintable_begintabu.tex
 For_the_recovered_le.tex
 Double_image_configu.tex
+We_assume_a_Gaussian.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
@@ -76,7 +77,6 @@ This_expansion_of_th.tex
 beginequation_phi__p.tex
 beginequation_Gammai.tex
 beginequation_sFijk_.tex
-We_assume_a_Gaussian.tex
 figures/toymass_compare/toymass_compare.png
 subsection_Foreground_Pertubers_are_More__.tex
 beginequation_x_jx_1.tex
