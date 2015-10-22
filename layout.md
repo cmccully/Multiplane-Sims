@@ -122,12 +122,12 @@ sectionSimulation.tex
 Our_goal_here_is.tex
 Throughout_this_sect.tex
 The_last_characteris.tex
+figures/mockshear/mockshear.png
 figures/toyh/toyh.png
 subsectionNonlineari.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_bottom_panels_of.tex
-figures/mockshear/mockshear.png
 While_these_single_p.tex
 sectionRealistic.tex
 subsectionFiducial_R.tex
