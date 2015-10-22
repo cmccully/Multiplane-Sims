@@ -151,8 +151,8 @@ The_Shear_models_per.tex
 The_orientation_of_t.tex
 One_key_point_is.tex
 The_total_mass_of.tex
-sectionRealistic.tex
 Once_we_include_a_large__.tex
+sectionRealistic.tex
 subsectionDifferent_.tex
 One_of_the_simplest.tex
 figures/B1422/B0712_re1.5e03.png
