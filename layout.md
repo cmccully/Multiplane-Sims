@@ -135,7 +135,6 @@ figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 section_External_Shear_vs_3__.tex
 While_the_external_convergence_does__.tex
-figures/suyu_kappa/suyu_kappa.png
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
 The_models_that_account_for__.tex
@@ -158,6 +157,7 @@ One_of_the_simplest.tex
 figures/B1422/B0712_re1.5e03.png
 Figure_refallfields_.tex
 figures/allfields/allfields.png
+figures/suyu_kappa/suyu_kappa.png
 subsectionVarying_th.tex
 We_next_explore_how.tex
 Regardless_of_the_el.tex
