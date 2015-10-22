@@ -120,7 +120,6 @@ beginequation_Delta_3.tex
 section_Done_through_here__.tex
 In_Section_refsecrea.tex
 Our_goal_here_is.tex
-subsectionNonlineari.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_bottom_panels_of.tex
