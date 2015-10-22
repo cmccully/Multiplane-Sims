@@ -84,7 +84,7 @@ figures/toymass_compare/toymass_compare.png
 In_all_of_these.tex
 The_next_parameter_o.tex
 subsection_Foreground_Pertubers_are_More__.tex
-Mass_that_is_not_physically__.tex
+We_now_turn_our_attention__.tex
 We_begin_by_deriving.tex
 beginequation_x_jx_1.tex
 For_a_single_perturb.tex
