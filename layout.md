@@ -136,6 +136,7 @@ Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 section_External_Shear_vs_3__.tex
+figures/suyu_kappa/suyu_kappa.png
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
 The_models_that_account_for__.tex
@@ -171,7 +172,6 @@ subsection_Comparing_to_Observations_label__.tex
 In_figure_ref_fig_srcpos__.tex
 figures/h_src_pos/h_src_pos.png
 While_the_external_convergence_does__.tex
-figures/suyu_kappa/suyu_kappa.png
 sectionConclusions_A.tex
 We_have_defined_the.tex
 Using_simulations_of.tex
