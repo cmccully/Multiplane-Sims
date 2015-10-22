@@ -81,7 +81,6 @@ beginequation_Gammai.tex
 beginequation_sFijk_.tex
 To_test_these_expectations_based__.tex
 figures/toymass_compare/toymass_compare.png
-As_discussed_above_w.tex
 In_all_of_these.tex
 The_next_parameter_o.tex
 subsection_Foreground_Pertubers_are_More__.tex
