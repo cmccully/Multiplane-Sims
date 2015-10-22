@@ -121,8 +121,8 @@ In_Section_refsecrea.tex
 sectionSimulation.tex
 Our_goal_here_is.tex
 Throughout_this_sect.tex
-The_last_characteris.tex
 figures/mockshear/mockshear.png
+The_last_characteris.tex
 figures/toyh/toyh.png
 subsectionNonlineari.tex
 Figure_refmockshear_.tex
