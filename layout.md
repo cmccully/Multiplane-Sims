@@ -58,11 +58,11 @@ beginitemize_item_2t.tex
 beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
+Double_image_configu.tex
 For_the_recovered_le.tex
 We_assume_a_Gaussian.tex
 The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
-Double_image_configu.tex
 begintable_begintabu.tex
 Because_the_Shear_mo.tex
 With_this_we_now_have__.tex
