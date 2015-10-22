@@ -112,6 +112,7 @@ beginequation_x_s_x_.tex
 beginequation_x_s__I1.tex
 We_now_consider_a.tex
 begin_equation_x_s_x_1_R_E__.tex
+figures/mockshear/mockshear.png
 begin_equation_x_s_x__1__1.tex
 beginequation_Delta_2.tex
 beginequation_Delta_3.tex
@@ -122,7 +123,6 @@ subsectionNonlineari.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_bottom_panels_of.tex
-figures/mockshear/mockshear.png
 The_last_characteris.tex
 figures/toyh/toyh.png
 While_these_single_p.tex
