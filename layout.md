@@ -122,7 +122,6 @@ The_last_characteris.tex
 figures/toyh/toyh.png
 In_Section_refsecrea.tex
 Real_lens_galaxies_h.tex
-section_Done_through_here__.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
