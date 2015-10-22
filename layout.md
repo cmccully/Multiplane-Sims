@@ -128,8 +128,8 @@ figures/mockshear/mockshear.png
 The_last_characteris.tex
 figures/toyh/toyh.png
 While_these_single_p.tex
-sectionRealistic.tex
 subsectionFiducial_R.tex
+sectionRealistic.tex
 We_take_the_latter.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
