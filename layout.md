@@ -123,7 +123,6 @@ figures/toyh/toyh.png
 In_Section_refsecrea.tex
 Real_lens_galaxies_h.tex
 section_Done_through_here__.tex
-The_middle_panels_of.tex
 While_these_single_p.tex
 subsectionFiducial_R.tex
 Figure_reffieldrz_il.tex
