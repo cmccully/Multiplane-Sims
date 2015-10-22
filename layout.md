@@ -115,7 +115,6 @@ begin_equation_x_s_x_1_R_E__.tex
 begin_equation_x_s_x__1__1.tex
 beginequation_Delta_2.tex
 beginequation_Delta_3.tex
-As_stated_above_we.tex
 In_Section_refsecrea.tex
 Our_goal_here_is.tex
 Throughout_this_sect.tex
