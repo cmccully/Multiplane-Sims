@@ -62,6 +62,7 @@ beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
 For_the_recovered_le.tex
+The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
 Double_image_configu.tex
 We_assume_a_Gaussian.tex
@@ -135,7 +136,6 @@ Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 sectionRealistic.tex
-The_final_ingredient_we_need__.tex
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
 The_models_that_account_for__.tex
