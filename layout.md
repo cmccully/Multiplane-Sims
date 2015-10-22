@@ -59,12 +59,12 @@ beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
 Double_image_configu.tex
+Because_the_Shear_mo.tex
 For_the_recovered_le.tex
 We_assume_a_Gaussian.tex
 begintable_begintabu.tex
 The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
-Because_the_Shear_mo.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
