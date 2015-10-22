@@ -123,7 +123,6 @@ section_Done_through_here__.tex
 Our_goal_here_is.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
-The_bottom_panels_of.tex
 The_last_characteris.tex
 While_these_single_p.tex
 subsectionFiducial_R.tex
