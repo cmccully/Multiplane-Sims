@@ -123,7 +123,6 @@ Our_goal_here_is.tex
 Throughout_this_sect.tex
 The_last_characteris.tex
 figures/toyh/toyh.png
-Now_that_we_have.tex
 subsectionNonlineari.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
