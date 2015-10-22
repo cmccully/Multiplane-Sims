@@ -12,7 +12,7 @@ subsection_Building_3_D_Mass__.tex
 The_first_step_of_building__.tex
 subsection_Multi_plane_Lensing__.tex
 In_practice_there_ca.tex
-In_M14_we_presented_a__.tex
+Our_framework_can_be_used__.tex
 begin_eqnarray_x__i_B_i__1.tex
 begin_equation_tau__i_j__.tex
 begin_eqnarray_B_j_I_sum__.tex
