@@ -110,6 +110,7 @@ Delta_3_x_has_the.tex
 subsectionForeground.tex
 beginequation_x_s_x_.tex
 beginequation_x_s__I1.tex
+To_test_this_we_simulate__.tex
 figures/mockshear/mockshear.png
 We_now_consider_a.tex
 begin_equation_x_s_x_1_R_E__.tex
