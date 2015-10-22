@@ -122,10 +122,10 @@ Our_goal_here_is.tex
 Throughout_this_sect.tex
 subsectionNonlineari.tex
 Figure_refmockshear_.tex
+The_middle_panels_of.tex
 figures/mockshear/mockshear.png
 The_last_characteris.tex
 figures/toyh/toyh.png
-The_middle_panels_of.tex
 The_bottom_panels_of.tex
 While_these_single_p.tex
 sectionRealistic.tex
