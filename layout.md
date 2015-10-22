@@ -51,7 +51,6 @@ Following_a_similar_argument_to__.tex
 subsection_Simulation_Setup_label_sec__.tex
 Typical_lens_beams_can_have__.tex
 We_model_the_main_lens__.tex
-To_test_our_new.tex
 We_choose_source_pos.tex
 Throughout_this_anal.tex
 It_is_important_to.tex
