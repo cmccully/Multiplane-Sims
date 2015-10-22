@@ -133,8 +133,8 @@ subsectionFiducial_R.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
-sectionRealistic.tex
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
+sectionRealistic.tex
 The_final_ingredient_we_need__.tex
 We_begin_by_treating_all__.tex
 figures/all_los_1e-1/all_los_1e-1.png
