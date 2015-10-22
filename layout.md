@@ -52,6 +52,7 @@ subsection_Simulation_Setup_label_sec__.tex
 Typical_lens_beams_can_have__.tex
 We_model_the_main_lens__.tex
 We_choose_source_pos.tex
+We_assume_a_Gaussian.tex
 Throughout_this_anal.tex
 It_is_important_to.tex
 beginitemize_item_2t.tex
@@ -62,7 +63,6 @@ For_the_recovered_le.tex
 The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
 Double_image_configu.tex
-We_assume_a_Gaussian.tex
 begintable_begintabu.tex
 Because_the_Shear_mo.tex
 With_this_we_now_have__.tex
