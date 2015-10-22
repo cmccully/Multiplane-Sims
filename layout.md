@@ -79,9 +79,9 @@ beginequation_Gammai.tex
 beginequation_sFijk_.tex
 figures/toymass_compare/toymass_compare.png
 subsection_Foreground_Pertubers_are_More__.tex
-beginequation_x_jx_1.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
+beginequation_x_jx_1.tex
 For_a_single_perturb.tex
 beginequation_x_2__x.tex
 beginequation_x_s__x.tex
