@@ -52,7 +52,6 @@ subsection_Simulation_Setup_label_sec__.tex
 Typical_lens_beams_can_have__.tex
 We_model_the_main_lens__.tex
 We_choose_source_pos.tex
-We_assume_a_Gaussian.tex
 Throughout_this_anal.tex
 It_is_important_to.tex
 beginitemize_item_2t.tex
@@ -60,6 +59,7 @@ beginitemize_item_4t.tex
 Each_of_the_models.tex
 beginitemize_item_So.tex
 For_the_recovered_le.tex
+We_assume_a_Gaussian.tex
 The_final_ingredient_we_need__.tex
 figures/mass_completeness/mass_completeness.png
 Double_image_configu.tex
