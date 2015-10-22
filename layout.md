@@ -49,7 +49,6 @@ We_now_take_a_derivative__.tex
 This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 subsection_Simulation_Setup_label_sec__.tex
-In_the_previous_sect.tex
 We_take_the_latter.tex
 We_use_Lensmodel_citep_Keeton01__.tex
 We_model_the_main_lens__.tex
