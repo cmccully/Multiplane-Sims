@@ -65,6 +65,7 @@ figures/mass_completeness/mass_completeness.png
 Double_image_configu.tex
 We_assume_a_Gaussian.tex
 begintable_begintabu.tex
+Because_the_Shear_mo.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
@@ -121,7 +122,6 @@ sectionSimulation.tex
 subsectionSingle_Per.tex
 Our_goal_here_is.tex
 Throughout_this_sect.tex
-Because_the_Shear_mo.tex
 The_last_characteris.tex
 figures/toyh/toyh.png
 Now_that_we_have.tex
