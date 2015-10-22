@@ -81,6 +81,7 @@ beginequation_Gammai.tex
 beginequation_sFijk_.tex
 As_discussed_above_w.tex
 In_all_of_these.tex
+The_next_parameter_o.tex
 figures/toymass_compare/toymass_compare.png
 subsection_Foreground_Pertubers_are_More__.tex
 Mass_that_is_not_physically__.tex
@@ -121,7 +122,6 @@ subsectionSingle_Per.tex
 Our_goal_here_is.tex
 Throughout_this_sect.tex
 Because_the_Shear_mo.tex
-The_next_parameter_o.tex
 The_last_characteris.tex
 figures/toyh/toyh.png
 Now_that_we_have.tex
