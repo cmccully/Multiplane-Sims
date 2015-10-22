@@ -131,8 +131,8 @@ figures/toyh/toyh.png
 While_these_single_p.tex
 subsectionFiducial_R.tex
 Real_lens_galaxies_h.tex
-sectionRealistic.tex
 Figure_reffieldrz_il.tex
+sectionRealistic.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 The_final_ingredient_we_need__.tex
