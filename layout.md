@@ -49,7 +49,7 @@ We_now_take_a_derivative__.tex
 This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 subsection_Simulation_Setup_label_sec__.tex
-We_use_Lensmodel_citep_Keeton01__.tex
+Typical_lens_beams_can_have__.tex
 We_model_the_main_lens__.tex
 To_test_our_new.tex
 We_choose_source_pos.tex
