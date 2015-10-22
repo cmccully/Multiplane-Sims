@@ -51,6 +51,7 @@ Following_a_similar_argument_to__.tex
 subsection_Simulation_Setup_label_sec__.tex
 In_the_previous_sect.tex
 We_use_Lensmodel_citep_Keeton01__.tex
+We_model_the_main_lens__.tex
 To_test_our_new.tex
 We_choose_source_pos.tex
 Throughout_this_anal.tex
@@ -133,7 +134,6 @@ While_these_single_p.tex
 sectionRealistic.tex
 subsectionFiducial_R.tex
 We_take_the_latter.tex
-We_model_the_main_lens__.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
