@@ -120,7 +120,6 @@ beginequation_Delta_3.tex
 figures/toyh/toyh.png
 In_Section_refsecrea.tex
 section_Done_through_here__.tex
-Our_goal_here_is.tex
 Figure_refmockshear_.tex
 The_middle_panels_of.tex
 The_last_characteris.tex
