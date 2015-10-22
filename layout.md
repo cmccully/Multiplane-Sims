@@ -79,10 +79,10 @@ This_expansion_of_th.tex
 beginequation_phi__p.tex
 beginequation_Gammai.tex
 beginequation_sFijk_.tex
+figures/toymass_compare/toymass_compare.png
 As_discussed_above_w.tex
 In_all_of_these.tex
 The_next_parameter_o.tex
-figures/toymass_compare/toymass_compare.png
 subsection_Foreground_Pertubers_are_More__.tex
 Mass_that_is_not_physically__.tex
 We_begin_by_deriving.tex
