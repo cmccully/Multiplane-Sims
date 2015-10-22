@@ -49,6 +49,7 @@ We_now_take_a_derivative__.tex
 This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
 subsection_Simulation_Setup_label_sec__.tex
+In_the_previous_sect.tex
 We_use_Lensmodel_citep_Keeton01__.tex
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
@@ -64,7 +65,6 @@ This_expansion_of_th.tex
 beginequation_phi__p.tex
 beginequation_Gammai.tex
 beginequation_sFijk_.tex
-In_the_previous_sect.tex
 To_test_our_new.tex
 We_choose_source_pos.tex
 Throughout_this_anal.tex
