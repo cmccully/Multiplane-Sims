@@ -138,7 +138,6 @@ figures/los_scaled_h1/los_scaled_h1.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/RXJ1131_re1.5e03.png
-The_Shear_models_per.tex
 The_orientation_of_t.tex
 One_key_point_is.tex
 The_total_mass_of.tex
