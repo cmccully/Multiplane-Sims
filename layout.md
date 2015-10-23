@@ -164,7 +164,6 @@ In_figure_ref_fig_srcpos__.tex
 figures/h_src_pos/h_src_pos.png
 sectionConclusions_A.tex
 We_have_defined_the.tex
-Using_simulations_of.tex
 When_accounting_for_.tex
 For_either_methodolo.tex
 We_show_that_the_all__.tex
