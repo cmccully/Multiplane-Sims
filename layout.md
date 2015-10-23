@@ -159,7 +159,7 @@ figures/timedelays/timedelays.png
 A_second_key_paramet.tex
 figures/recompare/recompare.png
 LSST_will_find_an.tex
-subsection_Comparing_to_Observations_label__.tex
+Now_that_we_have_established__.tex
 In_figure_ref_fig_srcpos__.tex
 figures/h_src_pos/h_src_pos.png
 sectionConclusions_A.tex
