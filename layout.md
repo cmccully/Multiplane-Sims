@@ -109,6 +109,7 @@ beginequation_Delta_1.tex
 Delta_3_x_has_the.tex
 subsectionForeground.tex
 beginequation_x_s_x_.tex
+begineqnarray_xi_s__1.tex
 beginequation_x_s__I1.tex
 To_test_this_we_simulate__.tex
 figures/mockshear/mockshear.png
@@ -169,4 +170,3 @@ For_either_methodolo.tex
 We_show_that_the_all__.tex
 One_possible_approac.tex
 Our_main_goal_for.tex
-begineqnarray_xi_s__1.tex
