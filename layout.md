@@ -123,6 +123,7 @@ In_Section_refsecrea.tex
 Real_lens_galaxies_h.tex
 Figure_reffieldrz_il.tex
 figures/B0712_fieldrz/RXJ1131_fieldrz.png
+A_histogram_of_Delta_3_x__.tex
 figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 This_discussion_about_which_galaxies__.tex
 section_External_Shear_vs_3__.tex
