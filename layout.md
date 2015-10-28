@@ -68,7 +68,7 @@ figures/mass_completeness/mass_completeness.png
 With_this_we_now_have__.tex
 sectionAnalytic_Back.tex
 There_are_broadly_two_classes__.tex
-subsection_Galxies_Projected_Near_the__.tex
+subsection_Galaxies_Projected_Near_the__.tex
 We_first_illustrate_.tex
 beginequation_al_equ.tex
 If_the_perturbing_ga.tex
