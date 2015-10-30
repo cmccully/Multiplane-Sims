@@ -156,7 +156,6 @@ We_next_explore_how.tex
 Regardless_of_the_el.tex
 As_with_the_Hubble.tex
 figures/ecompare/ecompare.png
-figures/timedelays/timedelays.png
 A_second_key_paramet.tex
 figures/recompare/recompare.png
 LSST_will_find_an.tex
