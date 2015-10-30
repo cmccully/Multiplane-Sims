@@ -146,7 +146,7 @@ Once_we_include_a_large__.tex
 sectionRealistic.tex
 subsectionDifferent_.tex
 One_of_the_simplest.tex
-figures/B1422/B0712_re1.5e03.png
+figures/B1422/new_B0712_reallos.png
 Figure_refallfields_.tex
 figures/allfields/allfields.png
 While_the_external_convergence_does__.tex
