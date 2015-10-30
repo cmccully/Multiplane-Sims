@@ -129,7 +129,7 @@ figures/RXJ1131_dx3_hist/RXJ1131_dx3_hist.png
 This_discussion_about_which_galaxies__.tex
 section_External_Shear_vs_3__.tex
 We_begin_by_treating_all__.tex
-figures/all_los_1e-1/all_los_1e-1.png
+figures/all_los_1e-1/all_los_1e-2.png
 The_models_that_account_for__.tex
 figures/all_shear_1e-3/all_shear_1e-2.png
 The_correlation_between_the_power__.tex
