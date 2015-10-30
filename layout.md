@@ -112,7 +112,7 @@ beginequation_x_s_x_.tex
 begineqnarray_xi_s__1.tex
 beginequation_x_s__I1.tex
 To_test_this_we_simulate__.tex
-figures/mockshear/mockshear.png
+figures/mockshear/frontback.png
 We_now_consider_a.tex
 begin_equation_x_s_x_1_R_E__.tex
 begin_equation_x_s_x__1__1.tex
