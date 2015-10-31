@@ -152,7 +152,6 @@ While_the_external_convergence_does__.tex
 figures/suyu_kappa/suyu_kappa.png
 subsectionVarying_th.tex
 We_next_explore_how.tex
-Regardless_of_the_el.tex
 As_with_the_Hubble.tex
 figures/ecompare/ecompare.png
 A_second_key_paramet.tex
