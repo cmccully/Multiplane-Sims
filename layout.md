@@ -139,7 +139,6 @@ figures/los_scaled_h1/los_scaled_h.png
 Our_goal_is_to.tex
 All_models_do_poorly.tex
 figures/B0712/new_RXJ1131_reallos.png
-The_orientation_of_t.tex
 One_key_point_is.tex
 The_total_mass_of.tex
 Once_we_include_a_large__.tex
