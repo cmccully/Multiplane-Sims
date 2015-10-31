@@ -158,7 +158,7 @@ A_second_key_paramet.tex
 figures/recompare/recompare.png
 LSST_will_find_an.tex
 Now_that_we_have_established__.tex
-In_figure_ref_fig_srcpos__.tex
+In_Figure_ref_fig_srcpos__.tex
 figures/h_src_pos/h_src_pos.png
 sectionConclusions_A.tex
 We_have_defined_the.tex
