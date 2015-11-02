@@ -48,6 +48,7 @@ The_continuous_limit_is_then__.tex
 We_now_take_a_derivative__.tex
 This_is_a_first_order__.tex
 Following_a_similar_argument_to__.tex
+By_accounting_for_the_smooth__.tex
 subsection_Simulation_Setup_label_sec__.tex
 Typical_lens_beams_can_have__.tex
 We_model_the_main_lens__.tex
