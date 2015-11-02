@@ -22,7 +22,7 @@ begin_equation_B_j_C__0__.tex
 begin_equation_F__j_G___.tex
 For_a_single_main_lens__.tex
 begin_equation_x_s_B_s_x_1__.tex
-subsection_Including_Empty_Space_label__.tex
+subsection_Including_a_Smooth_Mass__.tex
 There_are_a_variety_of__1.tex
 We_can_consider_empty_space__1.tex
 where_the_critical_surface_density__.tex
